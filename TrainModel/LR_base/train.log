@@ -1,0 +1,3553 @@
+10 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/1050111.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.66      0.80      1479
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.66      0.80      1479
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.72      0.84      1471
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.72      0.84      1473
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.78      0.88      1470
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.78      0.88      1470
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.71      0.83      1433
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.71      0.83      1433
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.74      0.85      1448
+    retweet       0.01      0.60      0.02         5
+
+avg / total       0.99      0.74      0.85      1453
+
+47 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/107114063.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.55      0.71      1456
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.55      0.71      1458
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.22      0.36      1422
+    retweet       0.00      1.00      0.01         4
+
+avg / total       1.00      0.22      0.36      1426
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.45      0.62      1507
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.45      0.62      1508
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.29      0.45      1410
+    retweet       0.00      0.83      0.01         6
+
+avg / total       0.99      0.29      0.45      1416
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.66      0.80      1452
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.66      0.80      1452
+
+71 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/107125748.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.79      0.88      1450
+    retweet       0.03      0.80      0.05        10
+
+avg / total       0.99      0.79      0.88      1460
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.73      0.84      1470
+    retweet       0.00      0.25      0.00         4
+
+avg / total       0.99      0.73      0.84      1474
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.74      0.85      1423
+    retweet       0.01      0.60      0.02         5
+
+avg / total       0.99      0.74      0.85      1428
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.79      0.88      1403
+    retweet       0.01      0.67      0.03         6
+
+avg / total       0.99      0.79      0.88      1409
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.71      0.83      1385
+    retweet       0.01      0.50      0.02         8
+
+avg / total       0.99      0.71      0.82      1393
+
+17 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/107381955.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.88      0.94      1464
+    retweet       0.01      1.00      0.02         2
+
+avg / total       1.00      0.88      0.94      1466
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.83      0.91      1449
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.83      0.91      1449
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.94      0.97      1518
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.94      0.97      1518
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.63      0.77      1429
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.63      0.77      1431
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.89      0.94      1432
+    retweet       0.01      1.00      0.02         2
+
+avg / total       1.00      0.89      0.94      1434
+
+23 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/10951232.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.55      0.71      1385
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.55      0.71      1387
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.63      0.77      1414
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.63      0.77      1416
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.61      0.76      1423
+    retweet       0.01      1.00      0.01         3
+
+avg / total       1.00      0.61      0.75      1426
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.70      0.83      1483
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.70      0.82      1484
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.51      0.68      1447
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.51      0.68      1447
+
+83 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/110445334.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.77      0.87      1426
+    retweet       0.02      0.58      0.04        12
+
+avg / total       0.99      0.77      0.86      1438
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.70      0.83      1443
+    retweet       0.02      0.58      0.03        12
+
+avg / total       0.99      0.70      0.82      1455
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.63      0.77      1426
+    retweet       0.00      0.33      0.01         6
+
+avg / total       0.99      0.63      0.77      1432
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.53      0.69      1510
+    retweet       0.01      0.55      0.02        11
+
+avg / total       0.99      0.53      0.69      1521
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.90      0.94      1376
+    retweet       0.02      0.21      0.04        14
+
+avg / total       0.98      0.89      0.93      1390
+
+11 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/11133442.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.67      0.80      1449
+    retweet       0.00      0.00      0.00         2
+
+avg / total       1.00      0.67      0.80      1451
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.59      0.74      1447
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.59      0.74      1447
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.56      0.72      1443
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.56      0.72      1444
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.62      0.76      1452
+    retweet       0.01      1.00      0.01         3
+
+avg / total       1.00      0.62      0.76      1455
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.60      0.75      1416
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.60      0.75      1417
+
+39 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/111400999.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.85      0.92      1482
+    retweet       0.00      0.20      0.01         5
+
+avg / total       0.99      0.85      0.91      1487
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.66      0.80      1437
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.66      0.80      1439
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.24      0.39      1449
+    retweet       0.00      1.00      0.01         3
+
+avg / total       1.00      0.24      0.39      1452
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.57      0.73      1520
+    retweet       0.00      0.75      0.01         4
+
+avg / total       1.00      0.57      0.73      1524
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.74      0.85      1467
+    retweet       0.00      0.33      0.01         3
+
+avg / total       1.00      0.74      0.85      1470
+
+19 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/111949935.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.67      0.80      1433
+    retweet       0.01      0.75      0.01         4
+
+avg / total       1.00      0.67      0.80      1437
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.55      0.71      1485
+    retweet       0.00      0.00      0.00         2
+
+avg / total       1.00      0.55      0.71      1487
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.77      0.87      1394
+    retweet       0.00      0.33      0.01         3
+
+avg / total       1.00      0.77      0.87      1397
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.27      0.43      1425
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.27      0.43      1426
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.38      0.55      1437
+    retweet       0.00      0.00      0.00         3
+
+avg / total       0.99      0.38      0.55      1440
+
+34 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/112283476.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.22      0.37      1397
+    retweet       0.00      1.00      0.01         4
+
+avg / total       1.00      0.23      0.37      1401
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.50      0.66      1403
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.50      0.66      1405
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.40      0.57      1413
+    retweet       0.00      0.67      0.00         3
+
+avg / total       1.00      0.40      0.57      1416
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.39      0.56      1365
+    retweet       0.00      1.00      0.01         3
+
+avg / total       1.00      0.39      0.56      1368
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.65      0.79      1487
+    retweet       0.00      0.50      0.01         4
+
+avg / total       1.00      0.65      0.79      1491
+
+12 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/13889622.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.49      0.66      1428
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.49      0.66      1429
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.61      0.76      1410
+    retweet       0.01      1.00      0.01         3
+
+avg / total       1.00      0.61      0.76      1413
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.67      0.80      1459
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.67      0.80      1461
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.65      0.79      1498
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.66      0.79      1500
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.46      0.63      1398
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.47      0.63      1399
+
+11 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/139162440.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.50      0.67      1468
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.50      0.67      1470
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.57      0.73      1457
+    retweet       0.00      0.67      0.01         3
+
+avg / total       1.00      0.57      0.73      1460
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.38      0.55      1425
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.38      0.55      1426
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.31      0.47      1420
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.31      0.47      1422
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.50      0.67      1429
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.50      0.67      1430
+
+11 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/14089458.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.92      0.96      1394
+    retweet       0.01      1.00      0.02         1
+
+avg / total       1.00      0.92      0.96      1395
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.89      0.94      1421
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.89      0.94      1421
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.72      0.84      1382
+    retweet       0.01      1.00      0.02         3
+
+avg / total       1.00      0.72      0.84      1385
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.89      0.94      1443
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.89      0.94      1443
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.91      0.96      1405
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.91      0.96      1405
+
+19 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/14091091.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.80      0.89      1495
+    retweet       0.01      0.60      0.02         5
+
+avg / total       1.00      0.80      0.89      1500
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.73      0.84      1467
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.73      0.84      1468
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.88      0.94      1406
+    retweet       0.00      0.00      0.00         2
+
+avg / total       1.00      0.88      0.94      1408
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.86      0.92      1493
+    retweet       0.00      0.50      0.01         2
+
+avg / total       1.00      0.86      0.92      1495
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.90      0.95      1447
+    retweet       0.01      0.67      0.03         3
+
+avg / total       1.00      0.90      0.95      1450
+
+18 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/14091431.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.12      0.22      1447
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.12      0.22      1448
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.66      0.79      1410
+    retweet       0.00      0.00      0.00         2
+
+avg / total       1.00      0.66      0.79      1412
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.41      0.58      1431
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.41      0.58      1431
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.53      0.69      1424
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.53      0.69      1425
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.36      0.53      1401
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.36      0.53      1401
+
+10 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/14093707.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.92      0.96      1483
+    retweet       0.01      1.00      0.02         1
+
+avg / total       1.00      0.92      0.96      1484
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.94      0.97      1435
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.94      0.97      1435
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.75      0.85      1478
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.75      0.85      1478
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.87      0.93      1412
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.86      0.93      1413
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.93      0.96      1467
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.93      0.96      1467
+
+24 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/14100451.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.63      0.77      1443
+    retweet       0.00      0.00      0.00         2
+
+avg / total       1.00      0.63      0.77      1445
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.60      0.75      1389
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.60      0.75      1391
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.79      0.88      1399
+    retweet       0.00      0.50      0.01         2
+
+avg / total       1.00      0.79      0.88      1401
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.63      0.77      1432
+    retweet       0.00      0.00      0.00         4
+
+avg / total       0.99      0.63      0.77      1436
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.50      0.67      1446
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.50      0.67      1447
+
+21 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/14112756.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.61      0.76      1411
+    retweet       0.00      0.67      0.01         3
+
+avg / total       1.00      0.61      0.75      1414
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.41      0.58      1404
+    retweet       0.00      1.00      0.00         2
+
+avg / total       1.00      0.41      0.58      1406
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.45      0.62      1405
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.45      0.62      1406
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.36      0.52      1420
+    retweet       0.00      1.00      0.01         3
+
+avg / total       1.00      0.36      0.52      1423
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.50      0.67      1420
+    retweet       0.01      0.83      0.01         6
+
+avg / total       0.99      0.50      0.66      1426
+
+31 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/14208982.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.04      0.08      1398
+    retweet       0.00      1.00      0.00         2
+
+avg / total       1.00      0.04      0.08      1400
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.60      0.75      1410
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.60      0.75      1411
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.64      0.78      1375
+    retweet       0.01      0.60      0.01         5
+
+avg / total       0.99      0.64      0.78      1380
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.67      0.80      1475
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.67      0.80      1476
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.54      0.70      1426
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.54      0.70      1428
+
+16 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/14218296.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.38      0.55      1452
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.38      0.55      1452
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.56      0.71      1427
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.56      0.71      1429
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.77      0.87      1471
+    retweet       0.00      0.00      0.00         3
+
+avg / total       1.00      0.76      0.86      1474
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.58      0.74      1365
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.58      0.74      1366
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.57      0.73      1350
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.57      0.73      1350
+
+12 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/16431371.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.74      0.85      1453
+    retweet       0.00      1.00      0.01         1
+
+avg / total       1.00      0.74      0.85      1454
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.72      0.84      1467
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.72      0.84      1468
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.65      0.79      1482
+    retweet       0.00      0.33      0.00         3
+
+avg / total       1.00      0.65      0.78      1485
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.12      0.22      1398
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.12      0.22      1399
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.17      0.30      1458
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.17      0.30      1458
+
+11 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/16571907.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.93      0.97      1465
+    retweet       0.01      1.00      0.02         1
+
+avg / total       1.00      0.93      0.96      1466
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.84      0.92      1402
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.84      0.92      1402
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.96      0.98      1474
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.95      0.98      1475
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.95      0.97      1434
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.95      0.97      1435
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.38      0.55      1438
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.38      0.55      1438
+
+98 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/16580226.txt
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.70      0.82      1425
+    retweet       0.02      0.54      0.03        13
+
+avg / total       0.99      0.70      0.81      1438
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.74      0.85      1399
+    retweet       0.01      0.22      0.02        18
+
+avg / total       0.97      0.74      0.84      1417
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.73      0.84      1398
+    retweet       0.01      0.20      0.01        10
+
+avg / total       0.99      0.73      0.84      1408
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.66      0.79      1418
+    retweet       0.01      0.50      0.02         8
+
+avg / total       0.99      0.66      0.79      1426
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.79      0.88      1407
+    retweet       0.03      0.75      0.06        12
+
+avg / total       0.99      0.79      0.88      1419
+
+23 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/16613128.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.84      0.91      1401
+    retweet       0.00      1.00      0.01         1
+
+avg / total       1.00      0.84      0.91      1402
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.87      0.93      1468
+    retweet       0.02      1.00      0.03         3
+
+avg / total       1.00      0.87      0.93      1471
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.81      0.90      1399
+    retweet       0.01      1.00      0.02         2
+
+avg / total       1.00      0.81      0.90      1401
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.85      0.92      1389
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.85      0.92      1389
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.75      0.86      1457
+    retweet       0.01      1.00      0.02         3
+
+avg / total       1.00      0.75      0.85      1460
+
+18 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/16656631.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.64      0.78      1406
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.64      0.78      1407
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.91      0.95      1485
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.91      0.95      1486
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.71      0.83      1409
+    retweet       0.01      1.00      0.02         4
+
+avg / total       1.00      0.71      0.83      1413
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.80      0.89      1430
+    retweet       0.00      0.50      0.01         2
+
+avg / total       1.00      0.80      0.89      1432
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.88      0.94      1477
+    retweet       0.01      0.33      0.01         3
+
+avg / total       1.00      0.88      0.93      1480
+
+19 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/16847294.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.41      0.58      1454
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.41      0.58      1456
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.58      0.73      1387
+    retweet       0.00      0.00      0.00         3
+
+avg / total       0.99      0.58      0.73      1390
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.74      0.85      1364
+    retweet       0.00      1.00      0.01         1
+
+avg / total       1.00      0.74      0.85      1365
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.56      0.72      1380
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.56      0.72      1382
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.46      0.63      1457
+    retweet       0.00      0.50      0.01         4
+
+avg / total       0.99      0.46      0.63      1461
+
+27 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/16857707.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.96      0.98      1405
+    retweet       0.00      0.00      0.00         3
+
+avg / total       1.00      0.95      0.97      1408
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.56      0.72      1487
+    retweet       0.01      0.80      0.01         5
+
+avg / total       1.00      0.56      0.71      1492
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.62      0.76      1375
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.62      0.76      1376
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.64      0.78      1476
+    retweet       0.00      0.00      0.00         2
+
+avg / total       1.00      0.64      0.78      1478
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.71      0.83      1468
+    retweet       0.00      0.50      0.01         4
+
+avg / total       1.00      0.71      0.83      1472
+
+35 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/16866701.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.47      0.64      1408
+    retweet       0.00      1.00      0.01         3
+
+avg / total       1.00      0.47      0.64      1411
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.66      0.80      1433
+    retweet       0.01      1.00      0.01         3
+
+avg / total       1.00      0.66      0.79      1436
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.67      0.80      1499
+    retweet       0.01      1.00      0.01         3
+
+avg / total       1.00      0.67      0.80      1502
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.60      0.75      1458
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.60      0.75      1460
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.63      0.77      1422
+    retweet       0.01      0.80      0.01         5
+
+avg / total       1.00      0.63      0.77      1427
+
+22 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/16871528.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.91      0.95      1419
+    retweet       0.01      0.33      0.01         3
+
+avg / total       1.00      0.91      0.95      1422
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.55      0.71      1487
+    retweet       0.00      0.67      0.01         3
+
+avg / total       1.00      0.55      0.71      1490
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.57      0.73      1398
+    retweet       0.00      0.33      0.00         3
+
+avg / total       1.00      0.57      0.72      1401
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.52      0.68      1464
+    retweet       0.00      0.75      0.01         4
+
+avg / total       1.00      0.52      0.68      1468
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.39      0.56      1444
+    retweet       0.00      0.75      0.01         4
+
+avg / total       1.00      0.39      0.56      1448
+
+219 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/169203819.txt
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.46      0.63      1396
+    retweet       0.02      0.74      0.04        19
+
+avg / total       0.98      0.46      0.62      1415
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.44      0.61      1417
+    retweet       0.02      0.68      0.04        22
+
+avg / total       0.97      0.44      0.60      1439
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.60      0.75      1439
+    retweet       0.01      0.44      0.02        16
+
+avg / total       0.98      0.60      0.74      1455
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.52      0.68      1381
+    retweet       0.01      0.50      0.02        12
+
+avg / total       0.98      0.52      0.67      1393
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.58      0.73      1449
+    retweet       0.02      0.59      0.04        22
+
+avg / total       0.97      0.58      0.72      1471
+
+26 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/16971994.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.43      0.60      1406
+    retweet       0.00      1.00      0.00         2
+
+avg / total       1.00      0.43      0.60      1408
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.29      0.45      1492
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.29      0.45      1493
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.08      0.15      1444
+    retweet       0.00      1.00      0.00         2
+
+avg / total       1.00      0.09      0.15      1446
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.54      0.70      1422
+    retweet       0.01      0.71      0.01         7
+
+avg / total       0.99      0.54      0.70      1429
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.57      0.72      1407
+    retweet       0.00      0.25      0.00         4
+
+avg / total       0.99      0.57      0.72      1411
+
+11 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/18214171.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.55      0.71      1434
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.55      0.71      1436
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.70      0.83      1415
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.70      0.83      1415
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.58      0.73      1365
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.58      0.73      1367
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.55      0.71      1384
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.55      0.71      1385
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.51      0.67      1459
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.51      0.67      1460
+
+40 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/18313747.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.73      0.84      1418
+    retweet       0.00      0.33      0.01         3
+
+avg / total       1.00      0.73      0.84      1421
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.76      0.86      1369
+    retweet       0.01      0.67      0.02         6
+
+avg / total       0.99      0.76      0.86      1375
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.75      0.86      1407
+    retweet       0.00      1.00      0.01         1
+
+avg / total       1.00      0.75      0.86      1408
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.88      0.94      1405
+    retweet       0.02      0.38      0.03         8
+
+avg / total       0.99      0.88      0.93      1413
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.75      0.85      1481
+    retweet       0.01      0.67      0.01         3
+
+avg / total       1.00      0.75      0.85      1484
+
+14 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/1835411.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.65      0.79      1425
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.65      0.79      1425
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.74      0.85      1402
+    retweet       0.00      0.50      0.01         2
+
+avg / total       1.00      0.74      0.85      1404
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.74      0.85      1428
+    retweet       0.00      1.00      0.01         1
+
+avg / total       1.00      0.74      0.85      1429
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.56      0.72      1428
+    retweet       0.00      0.33      0.00         3
+
+avg / total       1.00      0.56      0.71      1431
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.67      0.80      1486
+    retweet       0.00      0.67      0.01         3
+
+avg / total       1.00      0.67      0.80      1489
+
+11 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/18359862.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.45      0.62      1402
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.45      0.62      1403
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.80      0.89      1398
+    retweet       0.01      1.00      0.01         2
+
+avg / total       1.00      0.80      0.89      1400
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.78      0.88      1468
+    retweet       0.00      1.00      0.01         1
+
+avg / total       1.00      0.78      0.88      1469
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.68      0.81      1425
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.68      0.81      1425
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.45      0.62      1433
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.45      0.62      1433
+
+47 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/18387712.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.66      0.80      1426
+    retweet       0.01      0.75      0.01         4
+
+avg / total       1.00      0.66      0.80      1430
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.56      0.71      1419
+    retweet       0.00      0.40      0.01         5
+
+avg / total       0.99      0.56      0.71      1424
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.35      0.52      1425
+    retweet       0.00      0.67      0.01         6
+
+avg / total       0.99      0.35      0.51      1431
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.81      0.89      1418
+    retweet       0.01      0.57      0.03         7
+
+avg / total       0.99      0.81      0.89      1425
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.86      0.92      1436
+    retweet       0.01      0.22      0.02         9
+
+avg / total       0.99      0.86      0.92      1445
+
+15 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/18489585.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.53      0.70      1364
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.53      0.69      1366
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.82      0.90      1404
+    retweet       0.00      1.00      0.01         1
+
+avg / total       1.00      0.82      0.90      1405
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.84      0.91      1459
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.84      0.91      1460
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.61      0.76      1419
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.61      0.76      1421
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.60      0.75      1376
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.60      0.75      1378
+
+16 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/18608514.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.85      0.92      1438
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.85      0.92      1439
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.68      0.81      1348
+    retweet       0.00      0.67      0.01         3
+
+avg / total       1.00      0.68      0.81      1351
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.13      0.23      1424
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.13      0.23      1424
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.29      0.45      1482
+    retweet       0.00      1.00      0.01         3
+
+avg / total       1.00      0.29      0.45      1485
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.28      0.43      1438
+    retweet       0.00      1.00      0.00         2
+
+avg / total       1.00      0.28      0.43      1440
+
+119 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/18646108.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.22      0.36      1418
+    retweet       0.01      0.93      0.02        14
+
+avg / total       0.99      0.23      0.36      1432
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.54      0.70      1407
+    retweet       0.02      0.77      0.03        13
+
+avg / total       0.99      0.54      0.69      1420
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.81      0.89      1483
+    retweet       0.01      0.50      0.02         6
+
+avg / total       0.99      0.81      0.89      1489
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.70      0.82      1397
+    retweet       0.02      0.35      0.03        20
+
+avg / total       0.97      0.70      0.81      1417
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.53      0.69      1406
+    retweet       0.01      0.38      0.02        16
+
+avg / total       0.98      0.52      0.68      1422
+
+24 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/18791763.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.28      0.44      1396
+    retweet       0.00      1.00      0.01         3
+
+avg / total       1.00      0.28      0.44      1399
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.31      0.47      1365
+    retweet       0.00      1.00      0.00         2
+
+avg / total       1.00      0.31      0.47      1367
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.40      0.57      1502
+    retweet       0.00      0.75      0.01         4
+
+avg / total       1.00      0.40      0.57      1506
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.51      0.68      1450
+    retweet       0.01      1.00      0.01         5
+
+avg / total       1.00      0.51      0.67      1455
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.31      0.47      1433
+    retweet       0.00      0.67      0.00         3
+
+avg / total       1.00      0.31      0.47      1436
+
+55 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/18805644.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.45      0.62      1426
+    retweet       0.00      1.00      0.01         3
+
+avg / total       1.00      0.46      0.62      1429
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.85      0.92      1474
+    retweet       0.01      0.75      0.03         4
+
+avg / total       1.00      0.85      0.92      1478
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.81      0.90      1403
+    retweet       0.01      0.67      0.01         3
+
+avg / total       1.00      0.81      0.89      1406
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.82      0.90      1417
+    retweet       0.03      0.75      0.07        12
+
+avg / total       0.99      0.82      0.89      1429
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.89      0.94      1478
+    retweet       0.01      0.40      0.02         5
+
+avg / total       0.99      0.88      0.94      1483
+
+52 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/18983793.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.70      0.82      1476
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.70      0.82      1478
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.24      0.39      1421
+    retweet       0.00      1.00      0.01         4
+
+avg / total       1.00      0.25      0.39      1425
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.17      0.30      1487
+    retweet       0.00      0.67      0.01         6
+
+avg / total       0.99      0.18      0.30      1493
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.64      0.78      1411
+    retweet       0.01      0.75      0.01         4
+
+avg / total       1.00      0.64      0.78      1415
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.84      0.91      1443
+    retweet       0.00      0.00      0.00         3
+
+avg / total       1.00      0.83      0.91      1446
+
+19 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/18993395.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.60      0.75      1414
+    retweet       0.01      1.00      0.01         4
+
+avg / total       1.00      0.60      0.75      1418
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.68      0.81      1418
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.68      0.81      1420
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.79      0.88      1429
+    retweet       0.01      0.67      0.01         3
+
+avg / total       1.00      0.79      0.88      1432
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.73      0.84      1358
+    retweet       0.01      1.00      0.01         2
+
+avg / total       1.00      0.73      0.84      1360
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.77      0.87      1402
+    retweet       0.01      0.75      0.02         4
+
+avg / total       1.00      0.77      0.87      1406
+
+19 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/19092024.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.61      0.76      1414
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.61      0.76      1416
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.64      0.78      1419
+    retweet       0.00      0.67      0.01         3
+
+avg / total       1.00      0.64      0.78      1422
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.46      0.63      1471
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.47      0.63      1473
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.55      0.71      1427
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.55      0.71      1429
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.60      0.75      1431
+    retweet       0.01      1.00      0.01         4
+
+avg / total       1.00      0.60      0.75      1435
+
+39 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/191227452.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.41      0.58      1413
+    retweet       0.00      0.67      0.00         3
+
+avg / total       1.00      0.41      0.58      1416
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.21      0.34      1421
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.21      0.34      1422
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.59      0.75      1429
+    retweet       0.01      0.71      0.02         7
+
+avg / total       0.99      0.60      0.74      1436
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.45      0.62      1436
+    retweet       0.01      1.00      0.01         4
+
+avg / total       1.00      0.45      0.62      1440
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.55      0.70      1449
+    retweet       0.00      0.33      0.01         6
+
+avg / total       0.99      0.54      0.70      1455
+
+26 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/191613738.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.71      0.83      1440
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.71      0.83      1441
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.81      0.90      1440
+    retweet       0.01      0.67      0.01         3
+
+avg / total       1.00      0.81      0.90      1443
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.70      0.82      1413
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.70      0.82      1415
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.68      0.81      1403
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.68      0.81      1404
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.83      0.91      1492
+    retweet       0.00      0.50      0.01         2
+
+avg / total       1.00      0.83      0.91      1494
+
+11 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/19192224.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.71      0.83      1383
+    retweet       0.00      0.33      0.00         3
+
+avg / total       1.00      0.71      0.83      1386
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.72      0.83      1427
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.72      0.83      1428
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.65      0.79      1376
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.65      0.79      1376
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.62      0.77      1445
+    retweet       0.00      0.33      0.00         3
+
+avg / total       1.00      0.62      0.76      1448
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.65      0.79      1463
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.65      0.79      1464
+
+24 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/193336046.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.57      0.73      1500
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.57      0.73      1502
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.55      0.71      1410
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.55      0.71      1411
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.73      0.84      1448
+    retweet       0.00      0.00      0.00         3
+
+avg / total       1.00      0.72      0.84      1451
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.41      0.58      1429
+    retweet       0.00      0.50      0.00         4
+
+avg / total       0.99      0.41      0.58      1433
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.73      0.84      1446
+    retweet       0.01      1.00      0.01         3
+
+avg / total       1.00      0.73      0.84      1449
+
+25 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/19355826.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.62      0.76      1439
+    retweet       0.01      0.75      0.01         4
+
+avg / total       1.00      0.62      0.76      1443
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.58      0.73      1440
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.58      0.73      1441
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.50      0.67      1463
+    retweet       0.01      0.71      0.01         7
+
+avg / total       0.99      0.51      0.67      1470
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.59      0.74      1370
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.59      0.74      1371
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.57      0.72      1400
+    retweet       0.00      0.50      0.01         6
+
+avg / total       0.99      0.57      0.72      1406
+
+15 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/19400611.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.63      0.78      1387
+    retweet       0.01      1.00      0.01         3
+
+avg / total       1.00      0.64      0.77      1390
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.38      0.55      1337
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.38      0.55      1338
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.41      0.58      1475
+    retweet       0.00      0.67      0.00         3
+
+avg / total       1.00      0.41      0.58      1478
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.17      0.29      1433
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.17      0.29      1433
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.80      0.89      1455
+    retweet       0.00      0.00      0.00         3
+
+avg / total       1.00      0.79      0.88      1458
+
+27 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/19416225.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.92      0.96      1425
+    retweet       0.00      0.00      0.00         2
+
+avg / total       1.00      0.92      0.96      1427
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.68      0.81      1450
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.68      0.81      1452
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.85      0.92      1402
+    retweet       0.01      1.00      0.03         3
+
+avg / total       1.00      0.85      0.92      1405
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.83      0.90      1434
+    retweet       0.00      1.00      0.01         1
+
+avg / total       1.00      0.83      0.90      1435
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.81      0.90      1446
+    retweet       0.01      0.75      0.02         4
+
+avg / total       1.00      0.81      0.89      1450
+
+51 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/194347664.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.74      0.85      1396
+    retweet       0.02      0.89      0.04         9
+
+avg / total       0.99      0.74      0.85      1405
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.70      0.83      1416
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.70      0.82      1418
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.71      0.83      1455
+    retweet       0.01      0.83      0.02         6
+
+avg / total       0.99      0.71      0.82      1461
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.60      0.75      1435
+    retweet       0.01      0.89      0.03         9
+
+avg / total       0.99      0.60      0.75      1444
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.59      0.75      1442
+    retweet       0.01      0.80      0.01         5
+
+avg / total       1.00      0.60      0.74      1447
+
+34 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/194391047.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.60      0.75      1467
+    retweet       0.01      0.80      0.01         5
+
+avg / total       1.00      0.60      0.75      1472
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.60      0.75      1400
+    retweet       0.00      0.67      0.01         3
+
+avg / total       1.00      0.60      0.75      1403
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.62      0.77      1459
+    retweet       0.01      1.00      0.01         3
+
+avg / total       1.00      0.62      0.77      1462
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.60      0.75      1461
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.60      0.75      1462
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.56      0.72      1457
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.56      0.72      1459
+
+18 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/20607358.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.58      0.73      1368
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.58      0.73      1369
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.44      0.62      1469
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.44      0.61      1470
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.50      0.67      1401
+    retweet       0.00      1.00      0.01         3
+
+avg / total       1.00      0.50      0.67      1404
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.83      0.91      1381
+    retweet       0.01      1.00      0.02         2
+
+avg / total       1.00      0.83      0.91      1383
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.63      0.77      1357
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.63      0.77      1358
+
+10 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/20608910.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.84      0.92      1473
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.84      0.91      1474
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.64      0.78      1518
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.64      0.78      1519
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.62      0.76      1473
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.62      0.76      1473
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.69      0.82      1445
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.69      0.82      1447
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.82      0.90      1414
+    retweet       0.00      0.50      0.01         2
+
+avg / total       1.00      0.82      0.90      1416
+
+30 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/20707966.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.70      0.82      1441
+    retweet       0.00      0.67      0.01         3
+
+avg / total       1.00      0.70      0.82      1444
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.32      0.49      1380
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.32      0.49      1381
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.56      0.72      1428
+    retweet       0.00      0.60      0.01         5
+
+avg / total       0.99      0.56      0.72      1433
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.41      0.58      1474
+    retweet       0.00      1.00      0.01         3
+
+avg / total       1.00      0.41      0.58      1477
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.61      0.75      1438
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.61      0.75      1440
+
+34 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/20735177.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.80      0.89      1393
+    retweet       0.03      1.00      0.05         8
+
+avg / total       0.99      0.80      0.88      1401
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.83      0.91      1468
+    retweet       0.01      1.00      0.02         3
+
+avg / total       1.00      0.83      0.91      1471
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.79      0.88      1399
+    retweet       0.01      1.00      0.03         4
+
+avg / total       1.00      0.79      0.88      1403
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.91      0.95      1368
+    retweet       0.02      0.40      0.03         5
+
+avg / total       0.99      0.91      0.95      1373
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.78      0.88      1432
+    retweet       0.01      1.00      0.03         4
+
+avg / total       1.00      0.78      0.88      1436
+
+47 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/21010214.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.77      0.87      1465
+    retweet       0.00      0.00      0.00         3
+
+avg / total       1.00      0.77      0.87      1468
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.80      0.88      1508
+    retweet       0.01      0.33      0.01         6
+
+avg / total       0.99      0.79      0.88      1514
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.45      0.62      1409
+    retweet       0.01      0.57      0.01         7
+
+avg / total       0.99      0.46      0.62      1416
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.87      0.93      1422
+    retweet       0.01      0.25      0.01         4
+
+avg / total       0.99      0.87      0.93      1426
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.90      0.94      1388
+    retweet       0.00      0.00      0.00         3
+
+avg / total       1.00      0.89      0.94      1391
+
+32 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/21215111.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.67      0.81      1363
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.68      0.80      1365
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.77      0.87      1460
+    retweet       0.01      0.67      0.01         3
+
+avg / total       1.00      0.77      0.87      1463
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.75      0.86      1436
+    retweet       0.00      0.33      0.01         3
+
+avg / total       1.00      0.75      0.85      1439
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.60      0.75      1411
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.60      0.75      1412
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.66      0.79      1441
+    retweet       0.01      1.00      0.02         5
+
+avg / total       1.00      0.66      0.79      1446
+
+12 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/21265075.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.90      0.95      1515
+    retweet       0.00      0.00      0.00         2
+
+avg / total       1.00      0.90      0.94      1517
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.99      0.99      1428
+    retweet       0.00      0.00      0.00         3
+
+avg / total       1.00      0.99      0.99      1431
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.94      0.97      1379
+    retweet       0.00      0.00      0.00         2
+
+avg / total       1.00      0.93      0.96      1381
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.60      0.75      1385
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.60      0.75      1386
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.34      0.51      1353
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.34      0.51      1353
+
+10 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/21292523.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.71      0.83      1396
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.71      0.83      1396
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.62      0.76      1455
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.62      0.76      1457
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.44      0.61      1415
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.44      0.61      1415
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.34      0.51      1416
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.34      0.51      1417
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.82      0.90      1393
+    retweet       0.00      1.00      0.01         1
+
+avg / total       1.00      0.82      0.90      1394
+
+76 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/21301913.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.43      0.60      1461
+    retweet       0.01      1.00      0.02        10
+
+avg / total       0.99      0.43      0.60      1471
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.44      0.61      1386
+    retweet       0.01      0.50      0.01         8
+
+avg / total       0.99      0.44      0.61      1394
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.68      0.81      1422
+    retweet       0.01      0.56      0.02         9
+
+avg / total       0.99      0.68      0.81      1431
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.65      0.78      1450
+    retweet       0.01      0.38      0.01         8
+
+avg / total       0.99      0.64      0.78      1458
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.42      0.60      1454
+    retweet       0.01      1.00      0.02         9
+
+avg / total       0.99      0.43      0.59      1463
+
+17 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/21360626.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.24      0.39      1426
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.24      0.38      1427
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.56      0.72      1438
+    retweet       0.00      1.00      0.01         3
+
+avg / total       1.00      0.56      0.72      1441
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.18      0.30      1423
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.18      0.30      1424
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.61      0.75      1426
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.61      0.75      1427
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.07      0.13      1460
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.07      0.13      1461
+
+178 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/21436960.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.82      0.90      1481
+    retweet       0.08      0.96      0.15        24
+
+avg / total       0.98      0.82      0.89      1505
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.55      0.71      1376
+    retweet       0.03      1.00      0.05        17
+
+avg / total       0.99      0.55      0.70      1393
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.61      0.75      1438
+    retweet       0.04      1.00      0.08        23
+
+avg / total       0.98      0.61      0.74      1461
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.85      0.92      1434
+    retweet       0.09      1.00      0.17        21
+
+avg / total       0.99      0.85      0.91      1455
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.64      0.78      1446
+    retweet       0.03      0.94      0.05        16
+
+avg / total       0.99      0.64      0.77      1462
+
+34 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/21451151.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.58      0.73      1394
+    retweet       0.01      0.83      0.02         6
+
+avg / total       0.99      0.58      0.73      1400
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.60      0.75      1364
+    retweet       0.01      1.00      0.01         3
+
+avg / total       1.00      0.60      0.75      1367
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.59      0.75      1471
+    retweet       0.01      0.67      0.01         6
+
+avg / total       0.99      0.60      0.74      1477
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.38      0.55      1448
+    retweet       0.00      1.00      0.01         3
+
+avg / total       1.00      0.38      0.55      1451
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.70      0.82      1393
+    retweet       0.01      0.50      0.01         6
+
+avg / total       0.99      0.70      0.82      1399
+
+13 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/214620546.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.62      0.77      1452
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.62      0.77      1452
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.67      0.80      1390
+    retweet       0.01      1.00      0.02         4
+
+avg / total       1.00      0.67      0.80      1394
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.62      0.76      1435
+    retweet       0.01      1.00      0.01         3
+
+avg / total       1.00      0.62      0.76      1438
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.50      0.66      1505
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.50      0.66      1506
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.50      0.67      1424
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.50      0.67      1424
+
+29 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/21525246.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.71      0.83      1416
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.71      0.83      1418
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.57      0.73      1364
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.57      0.73      1366
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.81      0.89      1477
+    retweet       0.01      0.67      0.01         3
+
+avg / total       1.00      0.80      0.89      1480
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.70      0.82      1426
+    retweet       0.00      0.25      0.00         4
+
+avg / total       0.99      0.70      0.82      1430
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.75      0.86      1494
+    retweet       0.00      0.25      0.01         4
+
+avg / total       0.99      0.75      0.86      1498
+
+109 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/21580985.txt
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.91      0.95      1456
+    retweet       0.01      0.11      0.01         9
+
+avg / total       0.99      0.90      0.94      1465
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.78      0.88      1450
+    retweet       0.02      1.00      0.04         7
+
+avg / total       1.00      0.78      0.87      1457
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.90      0.95      1391
+    retweet       0.01      0.22      0.03         9
+
+avg / total       0.99      0.90      0.94      1400
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.89      0.94      1355
+    retweet       0.03      0.33      0.05        12
+
+avg / total       0.98      0.89      0.93      1367
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.86      0.92      1402
+    retweet       0.01      0.22      0.02         9
+
+avg / total       0.99      0.85      0.92      1411
+
+16 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/21689294.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.69      0.81      1430
+    retweet       0.00      0.67      0.01         3
+
+avg / total       1.00      0.69      0.81      1433
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.97      0.98      1440
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.97      0.98      1440
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.71      0.83      1446
+    retweet       0.00      0.00      0.00         2
+
+avg / total       1.00      0.71      0.83      1448
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.51      0.68      1490
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.51      0.68      1491
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.13      0.23      1403
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.13      0.23      1403
+
+22 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/21871522.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.54      0.70      1406
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.54      0.70      1408
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.62      0.76      1438
+    retweet       0.01      0.80      0.01         5
+
+avg / total       1.00      0.62      0.76      1443
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.62      0.76      1426
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.62      0.76      1428
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.53      0.70      1400
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.53      0.70      1402
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.46      0.63      1471
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.46      0.63      1472
+
+55 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/220081296.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.39      0.56      1460
+    retweet       0.01      0.80      0.02        10
+
+avg / total       0.99      0.40      0.56      1470
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.64      0.78      1429
+    retweet       0.00      0.33      0.00         3
+
+avg / total       1.00      0.64      0.78      1432
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.48      0.65      1382
+    retweet       0.00      0.43      0.01         7
+
+avg / total       0.99      0.48      0.64      1389
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.18      0.31      1408
+    retweet       0.00      1.00      0.01         3
+
+avg / total       1.00      0.19      0.31      1411
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.06      0.12      1363
+    retweet       0.00      1.00      0.01         6
+
+avg / total       1.00      0.07      0.12      1369
+
+10 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/22017602.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.78      0.87      1409
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.77      0.87      1410
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.59      0.74      1460
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.59      0.74      1461
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.85      0.92      1427
+    retweet       0.00      0.00      0.00         2
+
+avg / total       1.00      0.85      0.92      1429
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.81      0.89      1442
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.80      0.89      1443
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.34      0.51      1429
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.34      0.51      1429
+
+28 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/22055109.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.87      0.93      1456
+    retweet       0.01      1.00      0.02         2
+
+avg / total       1.00      0.87      0.93      1458
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.79      0.88      1429
+    retweet       0.00      0.25      0.01         4
+
+avg / total       0.99      0.78      0.88      1433
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.61      0.76      1380
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.61      0.76      1380
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.84      0.91      1453
+    retweet       0.01      0.29      0.02         7
+
+avg / total       0.99      0.84      0.91      1460
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.82      0.90      1417
+    retweet       0.01      0.67      0.02         3
+
+avg / total       1.00      0.82      0.90      1420
+
+14 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/22253.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.77      0.87      1502
+    retweet       0.00      1.00      0.01         1
+
+avg / total       1.00      0.77      0.87      1503
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.73      0.85      1445
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.73      0.85      1446
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.97      0.98      1363
+    retweet       0.02      0.50      0.04         2
+
+avg / total       1.00      0.96      0.98      1365
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.52      0.68      1413
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.52      0.68      1414
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.58      0.73      1418
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.58      0.73      1420
+
+25 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/22278898.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.73      0.85      1405
+    retweet       0.01      0.75      0.02         4
+
+avg / total       1.00      0.73      0.84      1409
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.64      0.78      1395
+    retweet       0.00      0.67      0.01         3
+
+avg / total       1.00      0.64      0.78      1398
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.82      0.90      1451
+    retweet       0.00      0.20      0.01         5
+
+avg / total       0.99      0.82      0.90      1456
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.78      0.88      1448
+    retweet       0.00      0.33      0.01         3
+
+avg / total       1.00      0.78      0.88      1451
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.70      0.82      1511
+    retweet       0.00      0.25      0.00         4
+
+avg / total       0.99      0.70      0.82      1515
+
+24 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/223970563.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.60      0.75      1459
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.60      0.75      1460
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.63      0.77      1464
+    retweet       0.01      1.00      0.01         3
+
+avg / total       1.00      0.63      0.77      1467
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.60      0.75      1486
+    retweet       0.00      0.67      0.01         3
+
+avg / total       1.00      0.60      0.75      1489
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.72      0.84      1446
+    retweet       0.01      0.67      0.02         6
+
+avg / total       0.99      0.72      0.84      1452
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.56      0.72      1420
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.56      0.72      1421
+
+48 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/22517990.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.75      0.86      1400
+    retweet       0.00      0.25      0.01         4
+
+avg / total       0.99      0.75      0.86      1404
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.66      0.80      1393
+    retweet       0.01      0.57      0.02         7
+
+avg / total       0.99      0.66      0.79      1400
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.65      0.78      1412
+    retweet       0.00      0.29      0.01         7
+
+avg / total       0.99      0.64      0.78      1419
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.91      0.95      1493
+    retweet       0.02      0.33      0.03         6
+
+avg / total       0.99      0.91      0.95      1499
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.86      0.92      1384
+    retweet       0.01      0.17      0.01         6
+
+avg / total       0.99      0.86      0.92      1390
+
+24 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/25957130.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.86      0.92      1505
+    retweet       0.00      0.20      0.01         5
+
+avg / total       0.99      0.86      0.92      1510
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.61      0.76      1432
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.61      0.76      1433
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.89      0.94      1360
+    retweet       0.00      0.00      0.00         2
+
+avg / total       1.00      0.88      0.94      1362
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.39      0.56      1402
+    retweet       0.00      0.50      0.00         4
+
+avg / total       0.99      0.39      0.56      1406
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.38      0.55      1422
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.38      0.55      1422
+
+16 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/26487169.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.28      0.44      1436
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.28      0.44      1437
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.92      0.96      1425
+    retweet       0.00      0.00      0.00         2
+
+avg / total       1.00      0.92      0.96      1427
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.36      0.53      1406
+    retweet       0.00      0.33      0.00         3
+
+avg / total       0.99      0.36      0.53      1409
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.56      0.72      1455
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.57      0.72      1456
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.73      0.85      1433
+    retweet       0.00      0.50      0.01         2
+
+avg / total       1.00      0.73      0.85      1435
+
+14 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/266043601.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.76      0.86      1442
+    retweet       0.00      0.00      0.00         2
+
+avg / total       1.00      0.76      0.86      1444
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.64      0.78      1452
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.64      0.78      1454
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.66      0.79      1468
+    retweet       0.01      0.75      0.01         4
+
+avg / total       1.00      0.66      0.79      1472
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.59      0.74      1401
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.59      0.74      1402
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.50      0.67      1394
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.50      0.67      1396
+
+65 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/266084180.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.85      0.91      1478
+    retweet       0.03      0.54      0.06        13
+
+avg / total       0.99      0.84      0.91      1491
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.72      0.84      1409
+    retweet       0.01      0.50      0.01         4
+
+avg / total       1.00      0.72      0.83      1413
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.75      0.85      1492
+    retweet       0.02      0.75      0.03         8
+
+avg / total       0.99      0.75      0.85      1500
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.71      0.83      1473
+    retweet       0.01      0.67      0.03         9
+
+avg / total       0.99      0.71      0.83      1482
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.66      0.80      1464
+    retweet       0.00      0.50      0.01         4
+
+avg / total       1.00      0.66      0.80      1468
+
+31 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/35908473.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.66      0.79      1410
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.66      0.79      1410
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.68      0.81      1389
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.68      0.81      1391
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.44      0.62      1473
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.44      0.61      1475
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.23      0.37      1491
+    retweet       0.00      0.80      0.01         5
+
+avg / total       0.99      0.23      0.37      1496
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.76      0.87      1396
+    retweet       0.01      0.80      0.02         5
+
+avg / total       1.00      0.76      0.86      1401
+
+26 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/35943.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.55      0.71      1383
+    retweet       0.00      0.67      0.01         3
+
+avg / total       1.00      0.55      0.71      1386
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.59      0.74      1399
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.59      0.74      1400
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.43      0.60      1361
+    retweet       0.01      1.00      0.01         5
+
+avg / total       1.00      0.43      0.60      1366
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.80      0.88      1387
+    retweet       0.00      0.20      0.01         5
+
+avg / total       0.99      0.79      0.88      1392
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.52      0.68      1406
+    retweet       0.01      1.00      0.01         4
+
+avg / total       1.00      0.52      0.68      1410
+
+34 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/36253.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.97      0.98      1520
+    retweet       0.10      1.00      0.19         6
+
+avg / total       1.00      0.97      0.98      1526
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.98      0.99      1406
+    retweet       0.14      1.00      0.24         4
+
+avg / total       1.00      0.98      0.99      1410
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.99      1.00      1360
+    retweet       0.19      1.00      0.32         3
+
+avg / total       1.00      0.99      0.99      1363
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.98      0.99      1431
+    retweet       0.11      1.00      0.19         3
+
+avg / total       1.00      0.98      0.99      1434
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.99      0.99      1414
+    retweet       0.09      1.00      0.17         2
+
+avg / total       1.00      0.99      0.99      1416
+
+17 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/37297803.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.34      0.51      1451
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.34      0.51      1452
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.74      0.85      1478
+    retweet       0.01      0.67      0.01         3
+
+avg / total       1.00      0.74      0.85      1481
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.71      0.83      1474
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.71      0.83      1475
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.40      0.57      1400
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.40      0.57      1401
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.80      0.89      1369
+    retweet       0.00      0.00      0.00         5
+
+avg / total       0.99      0.80      0.89      1374
+
+55 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/37434214.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.43      0.60      1391
+    retweet       0.00      0.75      0.01         4
+
+avg / total       1.00      0.43      0.60      1395
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.48      0.65      1384
+    retweet       0.01      0.73      0.02        11
+
+avg / total       0.99      0.48      0.64      1395
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.53      0.70      1410
+    retweet       0.01      0.57      0.01         7
+
+avg / total       0.99      0.53      0.69      1417
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.53      0.69      1483
+    retweet       0.00      0.33      0.00         3
+
+avg / total       1.00      0.53      0.69      1486
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.41      0.58      1447
+    retweet       0.00      1.00      0.01         4
+
+avg / total       1.00      0.41      0.58      1451
+
+24 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/37855605.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.65      0.79      1439
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.65      0.79      1441
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.62      0.76      1443
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.62      0.76      1445
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.67      0.80      1456
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.67      0.80      1458
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.73      0.84      1432
+    retweet       0.00      1.00      0.01         1
+
+avg / total       1.00      0.73      0.84      1433
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.67      0.80      1414
+    retweet       0.00      0.67      0.01         3
+
+avg / total       1.00      0.67      0.80      1417
+
+545 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/390455433.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.84      0.91      1375
+    retweet       0.17      0.94      0.29        47
+
+avg / total       0.97      0.85      0.89      1422
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.85      0.92      1366
+    retweet       0.18      0.92      0.31        49
+
+avg / total       0.97      0.86      0.90      1415
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.86      0.92      1436
+    retweet       0.18      0.90      0.30        50
+
+avg / total       0.97      0.86      0.90      1486
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.85      0.92      1378
+    retweet       0.21      0.95      0.34        57
+
+avg / total       0.97      0.86      0.90      1435
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.86      0.92      1326
+    retweet       0.24      0.94      0.38        64
+
+avg / total       0.96      0.86      0.90      1390
+
+11 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/39097715.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.62      0.76      1492
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.62      0.76      1492
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.85      0.92      1457
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.85      0.92      1457
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.80      0.89      1481
+    retweet       0.00      0.00      0.00         1
+
+avg / total       1.00      0.80      0.89      1482
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.67      0.80      1401
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.67      0.80      1403
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.51      0.68      1436
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.51      0.68      1436
+
+15 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/4050671.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.62      0.77      1401
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.62      0.77      1401
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.65      0.79      1458
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.65      0.79      1460
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.52      0.69      1464
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.52      0.69      1465
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.64      0.78      1389
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.64      0.78      1390
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.57      0.73      1465
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.57      0.73      1466
+
+30 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/41634520.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.68      0.81      1450
+    retweet       0.01      0.50      0.01         6
+
+avg / total       0.99      0.68      0.80      1456
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.58      0.74      1389
+    retweet       0.00      0.33      0.00         3
+
+avg / total       1.00      0.58      0.73      1392
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.64      0.78      1405
+    retweet       0.00      0.50      0.01         4
+
+avg / total       0.99      0.64      0.78      1409
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.58      0.73      1405
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.58      0.73      1407
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.64      0.78      1459
+    retweet       0.01      1.00      0.02         5
+
+avg / total       1.00      0.64      0.78      1464
+
+61 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/418.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.50      0.66      1458
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.50      0.66      1460
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.51      0.67      1425
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.51      0.67      1427
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.88      0.94      1441
+    retweet       0.05      1.00      0.10         9
+
+avg / total       0.99      0.88      0.93      1450
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.45      0.62      1437
+    retweet       0.00      0.60      0.01         5
+
+avg / total       0.99      0.45      0.62      1442
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.45      0.62      1401
+    retweet       0.00      0.20      0.00         5
+
+avg / total       0.99      0.45      0.62      1406
+
+32 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/419356073.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.58      0.74      1417
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.58      0.74      1418
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.37      0.54      1416
+    retweet       0.00      1.00      0.01         4
+
+avg / total       1.00      0.37      0.54      1420
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.39      0.56      1515
+    retweet       0.00      1.00      0.01         3
+
+avg / total       1.00      0.39      0.56      1518
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.43      0.60      1438
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.43      0.60      1439
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.48      0.65      1440
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.48      0.65      1441
+
+16 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/4257571.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.59      0.74      1429
+    retweet       0.00      0.50      0.00         2
+
+avg / total       1.00      0.59      0.74      1431
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.76      0.86      1385
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.76      0.86      1385
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.63      0.77      1412
+    retweet       0.00      1.00      0.01         2
+
+avg / total       1.00      0.63      0.77      1414
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.66      0.79      1409
+    retweet       0.00      1.00      0.00         1
+
+avg / total       1.00      0.66      0.79      1410
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.83      0.91      1456
+    retweet       0.00      0.00      0.00         0
+
+avg / total       1.00      0.83      0.91      1456
+
+40 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/42950930.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.66      0.80      1413
+    retweet       0.01      0.75      0.02         8
+
+avg / total       0.99      0.67      0.79      1421
+
+             precision    recall  f1-score   support
+
+not_retweet       0.99      0.80      0.88      1496
+    retweet       0.01      0.20      0.01        10
+
+avg / total       0.99      0.79      0.88      1506
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.75      0.85      1460
+    retweet       0.01      1.00      0.02         3
+
+avg / total       1.00      0.75      0.85      1463
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.69      0.81      1421
+    retweet       0.00      0.25      0.00         4
+
+avg / total       0.99      0.68      0.81      1425
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.69      0.81      1418
+    retweet       0.01      0.71      0.02         7
+
+avg / total       0.99      0.69      0.81      1425
+
+95 14320
+/home/yipei/Twitter/FeatureExtraction/data/trainfile/LRbase/43196650.txt
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.50      0.67      1438
+    retweet       0.01      0.86      0.02         7
+
+avg / total       0.99      0.50      0.66      1445
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.59      0.74      1323
+    retweet       0.01      1.00      0.03         8
+
+avg / total       0.99      0.59      0.73      1331
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.37      0.54      1392
+    retweet       0.00      1.00      0.00         2
+
+avg / total       1.00      0.37      0.54      1394
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.55      0.71      1429
+    retweet       0.01      1.00      0.02         7
+
+avg / total       1.00      0.55      0.70      1436
+
+             precision    recall  f1-score   support
+
+not_retweet       1.00      0.47      0.64      1408
+    retweet       0.01      1.00      0.03        10
+
+avg / total       0.99      0.48      0.64      1418
+
+effective  96
